@@ -1,4 +1,4 @@
-# depth-c2f-dense-crf
+# C2F-DenseCRF
 The code of paper "RGB-Guided Depth Map Recovery by Two-Stage Coarse-to-fine Dense CRF Models "
 
 Note: Our implemention is estbalised based on the  Github project "pydensecrf" (https://github.com/lucasb-eyer/pydensecrf).
