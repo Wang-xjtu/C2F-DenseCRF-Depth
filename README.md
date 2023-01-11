@@ -5,7 +5,7 @@ Note:
 Our implemention is estbalised based on the  Github project "pydensecrf" (https://github.com/lucasb-eyer/pydensecrf).
 We tested this code under python 3.5, Cython 0.28.5, pydensecrf, Windows 10.
 
-Testing ( "~/examples"):
+Test:
 Please run "main.py".
 
 After running "main.py",
